@@ -10,7 +10,7 @@ This project is a Java-based employee database system that utilizes Java Persist
 - Configurable: Ability to configure database connection settings, logging settings, and other application properties.
 
 ## Prerequisites
-Before getting started, make sure you have the following:
+Before getting started, make sure the following are already existing:
 
 - JDK (Java Development Kit) installed on your local machine.
 - An IDE (Integrated Development Environment) such as Eclipse or IntelliJ IDEA for coding and debugging.
